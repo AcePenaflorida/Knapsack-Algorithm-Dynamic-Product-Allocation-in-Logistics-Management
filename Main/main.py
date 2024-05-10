@@ -80,10 +80,8 @@ def rearrange_sorted_objects(objectsDict, sorted_PW_ratio):
     ratios = sorted(objectsDict.values(), key=lambda x: x[1])
 
     for ratio in sorted_PW_ratio:
-        # Perform binary search to find the index of ratio in ratios
-        index = binarySearch(ratios, ratio, 0, len(ratios) - 1)
         
-        # If found, retrieve the corresponding weight from objectsDict
+        index = binarySearch(ratios, ratio, 0, len(ratios) - 1)
         if index != -1:
             weight = list(objectsDict.keys())[list(objectsDict.values()).index(ratios[index])]
             sorted_objectsDict[weight] = objectsDict[weight]
