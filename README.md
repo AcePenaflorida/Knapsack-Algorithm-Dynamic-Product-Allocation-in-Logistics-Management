@@ -1,5 +1,5 @@
 
-# NOTE: Make to replace the DIRECTORY located in the functions:
+# NOTE: Make sure to replace the DIRECTORY located in the functions:
    - Main
    - LoadData
    - UpdateDeliveryStatus
