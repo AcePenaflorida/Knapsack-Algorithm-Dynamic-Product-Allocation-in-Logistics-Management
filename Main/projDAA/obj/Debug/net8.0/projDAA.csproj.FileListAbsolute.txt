@@ -1,0 +1,14 @@
+C:\Users\ACER\Downloads\DAA\.project\projDAA\bin\Debug\net8.0\projDAA.exe
+C:\Users\ACER\Downloads\DAA\.project\projDAA\bin\Debug\net8.0\projDAA.deps.json
+C:\Users\ACER\Downloads\DAA\.project\projDAA\bin\Debug\net8.0\projDAA.runtimeconfig.json
+C:\Users\ACER\Downloads\DAA\.project\projDAA\bin\Debug\net8.0\projDAA.dll
+C:\Users\ACER\Downloads\DAA\.project\projDAA\bin\Debug\net8.0\projDAA.pdb
+C:\Users\ACER\Downloads\DAA\.project\projDAA\obj\Debug\net8.0\projDAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\DAA\.project\projDAA\obj\Debug\net8.0\projDAA.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\DAA\.project\projDAA\obj\Debug\net8.0\projDAA.AssemblyInfo.cs
+C:\Users\ACER\Downloads\DAA\.project\projDAA\obj\Debug\net8.0\projDAA.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\DAA\.project\projDAA\obj\Debug\net8.0\projDAA.dll
+C:\Users\ACER\Downloads\DAA\.project\projDAA\obj\Debug\net8.0\refint\projDAA.dll
+C:\Users\ACER\Downloads\DAA\.project\projDAA\obj\Debug\net8.0\projDAA.pdb
+C:\Users\ACER\Downloads\DAA\.project\projDAA\obj\Debug\net8.0\projDAA.genruntimeconfig.cache
+C:\Users\ACER\Downloads\DAA\.project\projDAA\obj\Debug\net8.0\ref\projDAA.dll
