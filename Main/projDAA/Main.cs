@@ -53,7 +53,7 @@ class TabulatedElements
     }
 
     static void CheckToDeliveredItems(string filePath){
-    Console.WriteLine("ItemID   | Weight  | PricePerUnit  | Quantity | ShippingCost | ShippingRevenue | LogisticsProfit  | DeliveryStatus |");
+    Console.WriteLine("ItemId   | Weights  | PricePerUnit  | Quantity | ShippingCost | ShippingRevenue | LogisticsProfit  | DeliveryStatus |");
     try
     {
         using (StreamReader reader = new StreamReader(filePath))
